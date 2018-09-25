@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @farazorcheeku Sign out
-3
-12 95 faheemzunjani/Coursera-WebDev-JHU-Assignments
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Coursera-WebDev-JHU-Assignments/module-3-solution/js/bootstrap.js
-ceaa941  on Apr 19, 2016
-@faheemzunjani faheemzunjani Add Bootstrap files
-     
-2364 lines (1781 sloc)  67.3 KB
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -2378,16 +2361,3 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
